@@ -1,7 +1,7 @@
-FROM ninefx/erlang-fips:20.3.4
+FROM ninefx/erlang-fips:22.3
 
 # elixir expects utf8.
-ENV ELIXIR_VERSION="v1.6.4" \
+ENV ELIXIR_VERSION="v1.10.2" \
     LANG=C.UTF-8
 
 RUN set -xe \
