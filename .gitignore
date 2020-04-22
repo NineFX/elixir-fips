@@ -1,5 +1,5 @@
-# Ignore IDEA files
+#Ignore IDEA files
 .idea
 
-# Ignore Mac cruft
+#Ignore Mac cruft
 **/.DS_Store
